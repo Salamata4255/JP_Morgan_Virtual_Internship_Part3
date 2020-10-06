@@ -64,5 +64,5 @@ Open http://localhost:3000 to view the app in the browser. The page will reload 
 <h2>How to submit your work</h2>
 <p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
 
-<h2> Certifaction </h2>
+<h2> Certification </h2>
 <img width="861" alt="Screen Shot 2020-10-06 at 12 59 49 AM" src="https://user-images.githubusercontent.com/57270552/95160738-48dadf80-076f-11eb-8e51-83f8343d0ad9.png">
